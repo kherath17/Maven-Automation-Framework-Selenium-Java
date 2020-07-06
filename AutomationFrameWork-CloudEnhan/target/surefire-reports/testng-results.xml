@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="124822" started-at="2020-04-20T09:09:03Z" finished-at="2020-04-20T09:11:08Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="124822" started-at="2020-04-20T09:09:03Z" finished-at="2020-04-20T09:11:08Z">
+      <class name="com.GoogleAuto.UnitTest">
+        <test-method status="PASS" signature="a1navToLandingPage()[pri:0, instance:a1navToLandingPage(com.GoogleAuto.UnitTest)]" name="a1navToLandingPage" duration-ms="85278" started-at="2020-04-20T09:09:03Z" finished-at="2020-04-20T09:10:29Z">
+        </test-method> <!-- a1navToLandingPage -->
+        <test-method status="PASS" signature="a2navToSignin()[pri:0, instance:a2navToSignin(com.GoogleAuto.UnitTest)]" name="a2navToSignin" duration-ms="10333" started-at="2020-04-20T09:10:29Z" finished-at="2020-04-20T09:10:39Z">
+        </test-method> <!-- a2navToSignin -->
+        <test-method status="PASS" signature="a3authLogIn()[pri:0, instance:a3authLogIn(com.GoogleAuto.UnitTest)]" name="a3authLogIn" duration-ms="8008" started-at="2020-04-20T09:10:39Z" finished-at="2020-04-20T09:10:47Z">
+        </test-method> <!-- a3authLogIn -->
+        <test-method status="PASS" signature="a4signOut()[pri:0, instance:a4signOut(com.GoogleAuto.UnitTest)]" name="a4signOut" duration-ms="12421" started-at="2020-04-20T09:10:47Z" finished-at="2020-04-20T09:10:59Z">
+        </test-method> <!-- a4signOut -->
+        <test-method status="PASS" signature="a5inCred()[pri:0, instance:a5inCred(com.GoogleAuto.UnitTest)]" name="a5inCred" duration-ms="2701" started-at="2020-04-20T09:10:59Z" finished-at="2020-04-20T09:11:02Z">
+        </test-method> <!-- a5inCred -->
+      </class> <!-- com.GoogleAuto.UnitTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

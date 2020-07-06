@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.GoogleAuto.Nav1SanityTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 1.774 sec <<< FAILURE! - in com.GoogleAuto.Nav1SanityTest
+nav1 on nav1(com.GoogleAuto.Nav1SanityTest)(com.GoogleAuto.Nav1SanityTest)  Time elapsed: 0.346 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases
+	at com.GoogleAuto.Nav1SanityTest.setUp(Nav1SanityTest.java:35)
+
+nav1 on nav1(com.GoogleAuto.Nav1SanityTest)(com.GoogleAuto.Nav1SanityTest)  Time elapsed: 0.346 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.GoogleAuto.Nav1SanityTest.tearDown(Nav1SanityTest.java:41)
+

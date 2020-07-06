@@ -1,0 +1,5 @@
+com\GoogleAuto\BasicflowSanityTest.class
+com\GoogleAuto\Nav1SanityTest.class
+com\GoogleAuto\BasicflowRegressionTest.class
+com\GoogleAuto\UnitTest.class
+com\GoogleAuto\Nav1RegressionTest.class

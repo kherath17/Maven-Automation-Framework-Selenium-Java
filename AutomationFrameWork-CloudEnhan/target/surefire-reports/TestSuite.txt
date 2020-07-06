@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 43.526 sec <<< FAILURE! - in TestSuite
+basicflow on basicflow(com.GoogleAuto.BasicflowRegressionTest)(com.GoogleAuto.BasicflowRegressionTest)  Time elapsed: 7.681 sec  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Unable to create new service: GeckoDriverService
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PYXLE-000354', ip: '169.254.74.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+Command duration or timeout: 1.03 seconds
+	at com.GoogleAuto.BasicflowRegressionTest.basicflow(BasicflowRegressionTest.java:53)
+Caused by: org.openqa.selenium.SessionNotCreatedException: 
+Unable to create new service: GeckoDriverService
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PYXLE-000354', ip: '169.254.74.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'PYXLE-000354', ip: '169.254.74.239', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+
