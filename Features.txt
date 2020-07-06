@@ -5,3 +5,4 @@ Features
 4.Remote Test Execution with Selenium-Grid Technology (BasicflowRegressionTest.java)
 5.Page Object model
 6.Test execution through command prompt without the use of any IDE with profile selection
+(cd to project directory -> mvn test -P Regression-Test-Only)
