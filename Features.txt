@@ -1,0 +1,7 @@
+Features
+1.Maven Test Profiling 
+2.TestNG Annotation used
+3.Comprehensive Test reporting on html format with built in extra features
+4.Remote Test Execution with Selenium-Grid Technology (BasicflowRegressionTest.java)
+5.Page Object model
+6.Test execution through command prompt without the use of any IDE with profile selection
